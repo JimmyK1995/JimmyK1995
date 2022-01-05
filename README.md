@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, JS, PHP and WordPress**
 
-- 📫 How to reach me **Kaltoft1995@live.dk**
+- 📫 Reach me at my private mail: **Kaltoft1995@live.dk**
 
 - ⚡ Working as a Junior Developer at **Brandmonkey**
 
