@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋<br>
-  My name is Jimmy</h1>
+<h5 align="left">Hi!
+ My name is Jimmy</h5>
 <h3 align="left">A passionate JS/React/PHP Developer from Denmark</h3>
 
 - 🌱 I’m currently learning **Node JS and JS functional programming**
